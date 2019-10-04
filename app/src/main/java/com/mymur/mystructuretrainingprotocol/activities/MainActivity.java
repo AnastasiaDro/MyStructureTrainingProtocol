@@ -1,12 +1,13 @@
-package com.mymur.mystructuretrainingprotocol;
+package com.mymur.mystructuretrainingprotocol.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.mymur.mystructuretrainingprotocol.R;
 
 
-//здесь будет поле входа
+//здесь будет поле входа c выбором ученика
 public class MainActivity extends AppCompatActivity {
 
     @Override
