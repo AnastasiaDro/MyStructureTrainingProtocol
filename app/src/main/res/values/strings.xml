@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MyStructureTrainingProtocol</string>
+    <string name="addNew">Add new</string>
+
+
+    <string-array name="Students">
+        <item>Точин Матвей</item>
+        <item>Алиса Ф.</item>
+        <item>Наёк Юра</item>
+    </string-array>
+
+
 </resources>
