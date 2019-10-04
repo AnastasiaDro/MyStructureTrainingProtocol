@@ -3,7 +3,7 @@
     <string name="addNew">Add new</string>
 
 
-    <string-array name="Students">
+    <string-array name="students">
         <item>Точин Матвей</item>
         <item>Алиса Ф.</item>
         <item>Наёк Юра</item>
